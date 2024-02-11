@@ -1,0 +1,8 @@
+Hello {{ user.username }},
+
+Welcome to MovRek! We're thrilled to have you as a member.
+
+Thank you for registering.
+
+Best regards,
+The MovRek Team

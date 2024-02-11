@@ -1,0 +1,12 @@
+body {
+    background-color: #151313;
+    font-family: 'Helvetica', Arial, sans-serif; /* Stylish font choice - Replace with your desired font */
+    color: #ffffff; /* Text color for better readability on the dark background */
+}
+
+#backdrop {
+    background-color: #eef3ef;
+    font-family: 'Georgia', 'Times New Roman', serif; /* Professional font choice - Replace with your desired font */
+    color: #333333; /* Text color for better readability on the light background */
+}
+
